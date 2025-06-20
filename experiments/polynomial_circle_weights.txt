@@ -1,0 +1,18 @@
+POLYNOMIAL REGRESSION WEIGHTS
+==============================
+Training completed: True
+Number of features: 6
+
+LEARNED EQUATION:
+distance ≈ 1.6465 - 0.0010*x - 0.0026*y + 0.1321*x² + 0.1319*y² - 0.0017*xy
+
+WEIGHT BREAKDOWN:
+constant    :   1.646491
+x           :  -0.000980
+y           :  -0.002596
+x²          :   0.132065
+y²          :   0.131860
+xy          :  -0.001730
+
+TRUE EQUATION:
+distance = √(x² + y²)
